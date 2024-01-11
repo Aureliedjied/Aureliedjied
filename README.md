@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aurelie-djied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/aurelie-djied](https://www.linkedin.com/in/aurelie-djied-php-symfony/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aurelie-djied" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/aurelie-djied?trk=profile-badge">aurelie djied</a></div>
+
               
 
 <h3 align="left">Languages and Tools:</h3>
