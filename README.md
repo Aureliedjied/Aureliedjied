@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aurelie Djied</h1>
 <h3 align="center">A passionate backend developer from France</h3>
-
+<h3 align="left">About me:</h3>
 - 👩‍💻 I am a proud graduate of [O'Clock](https://oclock.io/), where I honed my skills in PHP, MySQL, and JavaScript, specializing in Symfony.
  
-- 🔭 I’m currently working on [Coffee Lover](https://github.com/Aureliedjied/PROJET-12-COFFEE-LOVER)
-
 - 🚀 Currently, I'm dedicated to enhancing my knowledge in **Docker** and exploring the exciting world of **React**.
+- 
+<h3 align="left">What I'm working now:</h3>
+
+- 🔭 I’m currently working on [Coffee Lover](https://github.com/Aureliedjied/PROJET-12-COFFEE-LOVER)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
