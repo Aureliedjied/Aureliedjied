@@ -5,6 +5,12 @@
 - 👩‍💻 I am a proud graduate of [O'Clock](https://oclock.io/), where I honed my skills in PHP, MySQL, and JavaScript, specializing in Symfony.
  
 - 🚀 Currently, I'm dedicated to enhancing my knowledge in **Docker** and exploring the exciting world of **React**.
+
+- ✌️   Enjoy to do programming and sharing knowledge
+
+- ❤️   Love to writing code and learning new features
+
+📧   Reach me anytime: aurelie.djied@gmail.com
   
 <h3 align="left">What I'm working now:</h3>
 
