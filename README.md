@@ -1,29 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aurelie Djied</h1>
-<h3 align="center">A passionate backend developer from France</h3>
+Hi 👋, I'm Aurelie Djied
+A passionate backend developer from France
 
-<h3 align="left">About me:</h3>
+About me:
 
-- 👩‍💻   I am a proud graduate of [O'Clock](https://oclock.io/), where I honed my skills in PHP, MySQL, and JavaScript, specializing in Symfony.
- 
-- 🚀   Currently, I'm dedicated to enhancing my knowledge in **Docker** and exploring the exciting world of **React**.
+👩‍💻 I am a proud graduate of O'Clock, where I honed my skills in PHP, MySQL, and JavaScript, specializing in Symfony.
 
-- ✌️   Enjoy to do programming and sharing knowledge
+🚀 Currently, I'm expanding my expertise in Docker and venturing into the dynamic world of Angular.
+🌱 I'm also diving into DevOps tools like CI/CD pipelines, Kubernetes, and cloud platforms to enhance my development workflow.
 
-- ❤️   Love to writing code and learning new features
-
-
-📧   Reach me anytime: aurelie.djied@gmail.com
+✌️ I enjoy programming and sharing knowledge with others.
+❤️ I love writing code and continuously learning new technologies.
 
   
 <h3 align="left">What I'm working now:</h3>
 
-- 🔭 I’m currently working on Project Symfony and Angular, deployed on Docker :)
+- 🔭  I’m currently working on a project using Symfony and Angular, deployed on Docker, and integrating CI/CD pipelines for automated deployment.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aurelie-djied-php-symfony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon" height="30" width="40" /></a>
 </p>
+📧   Reach me anytime: aurelie.djied@gmail.com
 
               
 
