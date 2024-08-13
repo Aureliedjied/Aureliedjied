@@ -1,5 +1,5 @@
-Hi 👋, I'm Aurelie Djied
-A passionate backend developer from France
+                                                      Hi 👋, I'm Aurelie Djied
+                                                      A passionate backend developer from France
 
 About me:
 
