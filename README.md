@@ -17,7 +17,7 @@
   
 <h3 align="left">What I'm working now:</h3>
 
-- 🔭 I’m currently working on [Coffee Lover](https://github.com/Aureliedjied/PROJET-12-COFFEE-LOVER)
+- 🔭 I’m currently working on Project Symfony and Angular, deployed on Docker :)
 
 
 <h3 align="left">Connect with me:</h3>
