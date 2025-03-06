@@ -15,6 +15,8 @@ About me:
 <h3 align="left">What I'm working now:</h3>
 
 - 🔭  I’m currently working on a project using Symfony and Angular, deployed on Docker, and integrating CI/CD pipelines for automated deployment.
+- Creating API like AirBnB or Booking with Symfony SQL and Postman.
+- Learning POWER BI for Data analytics.
 
 
 <h3 align="left">Connect with me:</h3>
